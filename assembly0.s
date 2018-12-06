@@ -15,8 +15,8 @@ asm0:
   
   asm0(0x2a, 0x4f)
 
-/stack stuff
-arg
-ret addr
-ebp
-local variables
+;stack stuff
+;ret addr
+;ebp
+;local variables
+;https://www.aldeid.com/wiki/Main_Page 
